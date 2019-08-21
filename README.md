@@ -229,4 +229,4 @@ you can use this battery without any problem. On most cases your plugins will be
 if you are used standard API or with minimal modifications.
 
 ----
-Testing commits - Again -= And Again - AND AGAIN =- AND AGGGAIINNN
+ .. Testing commits - Again -= And Again - AND AGAIN =- AND AGGGAIINNN
